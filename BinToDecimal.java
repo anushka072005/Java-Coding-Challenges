@@ -21,3 +21,4 @@ public class BinToDecimal {
         BinaryToDecimal(1111);
     }
 }
+ 
