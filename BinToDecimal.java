@@ -20,4 +20,4 @@ public class BinToDecimal {
     public static void main(String[] args) {
         BinaryToDecimal(1111);
     }
-} 
+}
