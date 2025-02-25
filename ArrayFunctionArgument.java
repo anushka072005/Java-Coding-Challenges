@@ -2,7 +2,7 @@ public class ArrayFunctionArgument {
 
     public static void update(int marks[], int nonchangable) {
         nonchangable = 10;
-        for(int i = 0; i < marks.length; i++) {
+        for(int i = 0; i < marks.length; i++) { 
             marks[i] = marks[i] + 1;
         }
     }
