@@ -1,4 +1,5 @@
 public class Buy_Sell_Stock {
+    
     public static int buySellstock(int prices[]) {
         int buyPrice = Integer.MAX_VALUE;
         int maxProfit = 0;
@@ -18,7 +19,7 @@ public class Buy_Sell_Stock {
     }
 
     public static void main(String[] args) {
-        int prices[] = {7, 1, 5, 3, 6, 4};
+        int prices[] = {7, 6, 4, 3, 1};
           
         System.out.println("Max profit : " + buySellstock(prices));
     }
