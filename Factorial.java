@@ -4,7 +4,7 @@ public class Factorial {
         if(n == 0) {
             return 1;
         }
-
+ 
         fac = n * fact(n-1);
         return fac;
     }
