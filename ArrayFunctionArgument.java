@@ -1,4 +1,4 @@
-public class ArrayFunctionArgument {
+ppublic class ArrayFunctionArgument {
 
     public static void update(int marks[], int nonchangable) {
         nonchangable = 10;
