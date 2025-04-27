@@ -13,5 +13,5 @@ public class AddBinary {
         String b = "1";
 
         System.out.println(addBinary(a, b));
-    }    
+    }     
 }
