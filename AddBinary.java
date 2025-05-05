@@ -14,4 +14,4 @@ public class AddBinary {
 
         System.out.println(addBinary(a, b));
     }      
-}  
+}   
