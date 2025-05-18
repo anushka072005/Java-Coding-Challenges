@@ -1,5 +1,5 @@
 // Check If LinkedList is Palindrome 
-    // step-1 find Mid for even & odd LL (Slow-Fast Approch)
+    // step-1 find Mid for even & odd LL (Slow-Fast Approch) 
     public Node findMid(Node head) {
         Node slow = head;
         Node fast = head; 
