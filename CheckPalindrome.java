@@ -2,7 +2,7 @@
     // step-1 find Mid for even & odd LL (Slow-Fast Approch)
     public Node findMid(Node head) {
         Node slow = head;
-        Node fast = head;
+        Node fast = head; 
 
         while (fast != null && fast.next != null) {
             slow = slow.next; //+1
