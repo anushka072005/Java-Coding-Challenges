@@ -3,7 +3,7 @@
     public void deleteNthFromEnd(int n) {
         // Calc Size
         int size = 0;
-        Node temp = head;
+        Node temp = head; 
         while (temp != null) {
             temp = temp.next;
             size++;
