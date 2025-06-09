@@ -1,5 +1,5 @@
 // Time com = O(n)  , SC = O(1) 
-    // Find and Remove Nth node From End 
+    // Find and Remove Nth node From End  
     public void deleteNthFromEnd(int n) {  
         // Calc Size
         int size = 0;
