@@ -5,7 +5,7 @@ public class LinkedListCreation {
 
         public Node(int data) {
             this.data = data;
-            this.next = null;
+            this.next = null; 
         }
     }
     public static Node head;
