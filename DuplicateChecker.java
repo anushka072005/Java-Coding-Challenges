@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class DuplicateChecker {
-
+ 
     public static boolean TestDuplicates(int nums[]) { 
 
         for(int i = 0; i < nums.length; i++) {
