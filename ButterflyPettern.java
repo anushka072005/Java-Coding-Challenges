@@ -1,4 +1,3 @@
-
 public class ButterflyPettern {
 
     public static void Butterfly(int n) {
