@@ -1,5 +1,5 @@
 public class LinkedListCreation {
-    public static class Node {  
+    public static class Node {   
         int data; 
         Node next; 
 
