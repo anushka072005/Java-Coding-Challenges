@@ -3,7 +3,7 @@ public class LinkedListPart2 {
         int data;
         Node next;
 
-        public Node(int data) {
+        public Node(int data) { 
             this.data = data;
             this.next = null;
         }  
