@@ -13,7 +13,7 @@ public class CharecterPettern {
                 ch++;
             }
             System.out.println();
-        }  
+        }
         sc.close();
     }
 }
