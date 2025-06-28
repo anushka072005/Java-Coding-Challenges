@@ -5,7 +5,7 @@ public class CharecterPettern {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter number for line : ");
         int n = sc.nextInt(); 
-        char ch = 'A';
+        char ch = 'A'; 
 
         for (int i = 1 ; i <= n ; i++){
             for (int j = 1 ; j <= i ; j++){
