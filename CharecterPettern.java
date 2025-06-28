@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class CharecterPettern {
     public static void main(String args[]){
         Scanner sc = new Scanner(System.in);
-        System.out.print("Enter number for line : ");
+        System.out.print("Enter number for  line : ");
         int n = sc.nextInt(); 
         char ch = 'A'; 
 
