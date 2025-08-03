@@ -1,7 +1,7 @@
 // addLast DLL
     public void addLast(int data) { 
         Node newNode = new Node(data);
-        size++;
+        size++; 
         if(head == null) {
             head = tail = newNode;
             return;
