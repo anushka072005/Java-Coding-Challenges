@@ -9,7 +9,7 @@ public class LinkedListCreation {
         }
     }
     public static Node head;
-    public static Node tail;
+    public static Node tail; 
     public static int size;
 
     // Time com = O(1)
