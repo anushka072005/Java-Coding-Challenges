@@ -8,3 +8,4 @@ public class Add1toInteger {
         System.out.println(z + " + " + 1 + " is = " + -~z);
     }
 }
+
