@@ -1,5 +1,5 @@
 public class AddBinary {
-    public static String addBinary(String a, String b) {
+    public static String addBinary(String a, String b) { 
 
         //Convert String into int
         int num1 = Integer.parseInt(a, 2);
