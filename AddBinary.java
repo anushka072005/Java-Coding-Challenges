@@ -5,7 +5,7 @@ public class AddBinary {
         int num1 = Integer.parseInt(a, 2);
         int num2 = Integer.parseInt(b, 2);
         int sum = num1 + num2;  // Add the numbers
-        return Integer.toBinaryString(sum);   // Convert the sum back to binary 
+        return  Integer.toBinaryString(sum);   // Convert the sum back to binary 
     }
 
     public static void main(String[] args) {
