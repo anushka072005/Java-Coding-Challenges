@@ -10,6 +10,6 @@ public class AreaofCircle {
         System.out.println(areaOfCircle);
 
         sc.close();
-    } 
+    }  
 }  
  
