@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class CheckFever {
+public class CheckFever { 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter your fever : ");
@@ -15,3 +15,4 @@ public class CheckFever {
         sc.close();
     }
 }
+
